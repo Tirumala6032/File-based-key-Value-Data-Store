@@ -16,5 +16,6 @@ The data store wil also support the followinf non-functional requirements.
   3. A client process is allowed to access the data store using multiple threads, if it desires to. The data store must therefore be thread-safe.
   4. The client will bear as little memory costs as possible to use this data store, while deriving maximum performance with respect to response times for acessing the data store.
   
- Language used : Python
- Operation System : Windows 10
+  Language used : Python
+ 
+  Operation System : Windows 10
