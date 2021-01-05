@@ -18,4 +18,4 @@ The data store will also support the following non-functional requirements.
   
   Language used : Python
  
-  Operation System : Windows 10
+  Operating System : Windows 10
